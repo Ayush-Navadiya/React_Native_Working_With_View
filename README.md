@@ -19,8 +19,8 @@ React native working with view example
 1. Open Command Line
 2. Move to project directory
 4. Run command "npm install" to install node modules
-5. Run command "npm start" to start server
-6. Let it get started and select option to run on appropriate device
+5. Run command "npm start" to start expo cli
+6. Let it get started. Then select option to run on appropriate device
 7. Make sure that an emulator is running\ or else if you are using your mobile make sure that USB debugging is turned on
 8. You will see the output on the targeted device
 
