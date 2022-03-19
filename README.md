@@ -1,7 +1,12 @@
 # React_Native_Working_With_View
 React native working with view example
 
+---
+### What is View?
 
+>The most fundamental component for building a UI, View is a container that supports layout with flexbox, style, some touch handling, and accessibility controls. View maps directly to the native view equivalent on whatever platform React Native is running on, whether that is a UIView, div, android.view, etc.
+
+>View is designed to be nested inside other views and can have 0 to many children of any type.
 
 
 ---
