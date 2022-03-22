@@ -38,7 +38,7 @@ React native working with view example
 
 ---
 ## Output
-![Kitten Material](https://github.com/Ayush-Navadiya/React_Native_Working_With_View/blob/master/Screenshots/Output.jpg)
+![Output](https://github.com/Ayush-Navadiya/React_Native_Working_With_View/blob/master/Screenshots/Output.jpg)
 
 
 
